@@ -6,4 +6,4 @@ description Velvet assembly and scaffolding
 organism C.procera
 defaultPos cal_scaffold_562060:100000-500000
 scientificName Calotropis Procera
-htmlPath https://de.iplantcollaborative.org/dl/d/8C0B79DB-9ACD-4F40-A97F-670121C6E418/description.html
+htmlPath https://de.iplantcollaborative.org/dl/d/6DD34815-666E-464D-BD0B-C3634F0CFCB1/description.html
