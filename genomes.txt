@@ -4,6 +4,6 @@ twoBitPath calVelvet/calVelvet.2bit
 groups groups.txt
 description Velvet assembly and scaffolding
 organism C.procera
-defaultPos cal_scaffold_562060:100000-500000
+defaultPos cal_scaffold_562060:100000-200000
 scientificName Calotropis Procera
 htmlPath https://de.iplantcollaborative.org/dl/d/6DD34815-666E-464D-BD0B-C3634F0CFCB1/description.html

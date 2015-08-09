@@ -1,6 +1,7 @@
-hub MyFirstTestHub
+hub UCSC-Hub
 shortLabel Calotropis  
 #This will be the group name in the genome page
 longLabel Calotropis assembly
 genomesFile genomes.txt
-email myEmail@address
+email drtamermansour@gmail.com
+
