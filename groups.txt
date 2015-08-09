@@ -1,7 +1,7 @@
 name user
 label Custom
 priority 1
-defaultIsClosed 1
+defaultIsClosed 0
 
 name map
 label Mapping
