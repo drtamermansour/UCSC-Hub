@@ -1,0 +1,9 @@
+genome calVelvet
+trackDb calVelvet/trackDb.txt
+twoBitPath calVelvet/calVelvet.2bit
+groups groups.txt
+description Velvet assembly and scaffolding
+organism C.procera
+defaultPos cal_scaffold_562060:100000-500000
+scientificName Calotropis Procera
+htmlPath calVelvet/description.html

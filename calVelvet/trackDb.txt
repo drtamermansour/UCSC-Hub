@@ -1,0 +1,24 @@
+track assembly_
+longLabel Assembly 
+shortLabel Assembly 
+priority 10
+visibility pack
+colorByStrand 150,100,30 230,170,40
+color 150,100,30
+altColor 230,170,40
+bigDataUrl bbi/calitropis.assembly.bb
+type bigBed 6
+group map
+html assembly
+
+track gap_
+longLabel Gap 
+shortLabel Gap 
+priority 11
+visibility dense
+color 0,0,0 
+bigDataUrl bbi/calitropis.gap.bb
+type bigBed 4
+group map
+html gap
+
